@@ -1,1 +1,1 @@
-# Simple MVC app using C#, for a pass grade
+# Simple fullstack app using C# & js for a pass grade, implementing MVC pattern
